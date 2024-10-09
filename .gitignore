@@ -169,7 +169,6 @@ save/
 runs/
 *.ipynb
 *.np[yz]
-*.png
 *.backup
 *.jpg
 *.DS_Store
