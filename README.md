@@ -124,4 +124,4 @@ We gratefully acknowledge the following repository for its work on explainable A
 
 ## Contact
 
-For questions or issues, feel free to reach out via email: [your-email@example.com](mailto:your-email@example.com)
+For questions or issues, feel free to reach out via email: [seyed.mohamad.moghadas@vub.be](mailto:seyed.mohamad.moghadas@vub.be)
