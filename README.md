@@ -118,9 +118,9 @@ If you use this code or find our work helpful, please consider citing us:
 
 ## Acknowledgments
 
-We gratefully acknowledge the following repository for its work on explainable AI in classification tasks:
+We gratefully acknowledge the following repository for its work:
 
-[https://github.com/sang-woo-seo/PGIB](https://github.com/sang-woo-seo/PGIB)
+[https://dl.acm.org/doi/10.1145/3583780.3614871](https://dl.acm.org/doi/10.1145/3583780.3614871)
 
 ## Contact
 
