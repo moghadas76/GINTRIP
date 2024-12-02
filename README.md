@@ -21,6 +21,12 @@ To run GINTRIP, the following Python packages are required:
 - torch-sparse == 0.6.13
 ```
 
+## Results
+
+![Fidelity](./results/Screenshot from 2024-11-28 06-30-48.png)
+
+![Explainablity](./results/explain_v2.png)
+
 ## Datasets
 
 We used the PeMS04, PeMS07, and PeMS08 datasets for the experiments. These datasets are available at the following link: [Link to Dataset](https://vub-my.sharepoint.com/:u:/g/personal/seyed_mohamad_moghadas_vub_be/EYCkNe_FhbNNngbW2V9rbvkBx2XR25wJxydyCmq_EU3nPA?e=axhsx9).
