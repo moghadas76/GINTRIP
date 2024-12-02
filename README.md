@@ -23,8 +23,7 @@ To run GINTRIP, the following Python packages are required:
 
 ## Results
 
-![Fidelity](./results/Screenshot from 2024-11-28 06-30-48.png)
-
+![Fidelity](./results/Screenshot%20from%202024-11-28%2006-30-48.png)
 ![Explainablity](./results/explain_v2.png)
 
 ## Datasets
