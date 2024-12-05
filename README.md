@@ -1,6 +1,6 @@
 # GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method
 
-This repository contains the official implementation of [**GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method**](https://arxiv.org/abs/2409.10996v1), as presented at ICASSP 2025.
+This repository contains the official implementation of [**GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method**](https://arxiv.org/abs/2409.10996v1), as submitted at ICASSP 2025.
 
 ## Overview
 
