@@ -6,7 +6,7 @@ This repository contains the official implementation of [**GINTRIP: Interpretabl
 
 Deep neural networks (DNNs) have achieved remarkable performance across various domains, yet applying them to temporal graph regression tasks presents significant challenges regarding interpretability. The complexity of both DNNs and the underlying spatio-temporal patterns in graphs necessitates innovative solutions. Although interpretability concerns in Graph Neural Networks (GNNs) parallel those of DNNs, to the best of our knowledge, no significant work has addressed the interpretability of temporal GNNs using a combination of Information Bottleneck (IB) principles and prototype-based methods.
 
-GINTRIP leverages these principles to provide an interpretable framework for temporal graph regression, allowing for more insightful analysis of spatio-temporal data.
+GINTRIP leverages these principles to provide an interpretable framework for temporal graph regression, allowing for more insightful analysis of spatio-temporal traffic data.
 
 ![Model Architecture](./img.png)
 
