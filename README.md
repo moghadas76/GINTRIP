@@ -1,6 +1,6 @@
 # GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method
 
-This repository contains the official implementation of [**GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method**](https://arxiv.org/abs/2409.10996v1), as submitted at ICASSP 2025.
+This repository contains the official implementation of GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method
 
 ## Overview
 
@@ -108,21 +108,6 @@ The following are descriptions of the parameters used in the argument parser (ar
 - `--visualize`: Boolean flag to enable visualization of results.
 - `--num_split`: Number of to split subgraphs
 
-## Citation
-
-If you use this code or find our work helpful, please consider citing us:
-
-```bibtex
-@misc{royat2024gintripinterpretabletemporalgraph,
-  title={GINTRIP: Interpretable Temporal Graph Regression using Information Bottleneck and Prototype-based Method},
-  author={Ali Royat and Seyed Mohamad Moghadas and Lesley De Cruz and Adrian Munteanu},
-  year={2024},
-  eprint={2409.10996},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG},
-  url={https://arxiv.org/abs/2409.10996}
-}
-```
 
 ## Acknowledgments
 
@@ -130,6 +115,3 @@ We gratefully acknowledge the following repository for its work:
 
 [https://dl.acm.org/doi/10.1145/3583780.3614871](https://dl.acm.org/doi/10.1145/3583780.3614871)
 
-## Contact
-
-For questions or issues, feel free to reach out via email: [seyed.mohamad.moghadas@vub.be](mailto:seyed.mohamad.moghadas@vub.be)
