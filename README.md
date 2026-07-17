@@ -107,6 +107,7 @@ The following are descriptions of the parameters used in the argument parser (ar
 - `--F_S`: Feature selection parameter (optional).
 - `--visualize`: Boolean flag to enable visualization of results.
 - `--num_split`: Number of to split subgraphs
+- `--seed`: The Random seed to run the training script, default: 101.
 
 
 ## Acknowledgments
