@@ -12,7 +12,7 @@ GINTRIP leverages these principles to provide an interpretable framework for tem
 
 ## Requirements
 
-To run GINTRIP, the following Python packages are required:
+To run GINTRIP, the following Python packages are required (YAML-compatible):
 
 ```
 - torch >= 2.1.0
