@@ -24,7 +24,7 @@ To run GINTRIP, the following Python packages are required (YAML-compatible):
 ## Results
 
 ![Fidelity](./results/Screenshot%20from%202024-11-28%2006-30-48.png)
-![Explainablity](./results/explain_v2.png)
+[rebuttal_v2.pdf](https://github.com/user-attachments/files/30129231/rebuttal_v2.pdf)
 <img width="1000" height="800" alt="Reb_Figure_4" src="https://github.com/user-attachments/assets/5907d551-15cc-4939-bc3d-535c7ccfb4f9" />
 <img width="1909" height="583" alt="nyc_high_1" src="https://github.com/user-attachments/assets/7b6e2eae-b0c3-456e-841f-4ce01f7a588e" />
 <img width="1900" height="558" alt="chi_1" src="https://github.com/user-attachments/assets/81fc7857-9898-4237-91f0-cc432b73ed53" />
